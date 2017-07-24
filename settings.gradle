@@ -25,3 +25,6 @@ include "databases:timesheets-database"
 include "integration-test"
 include 'platform-services'
 
+include "platform-services:oauth-server"
+
+
