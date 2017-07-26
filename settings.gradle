@@ -26,5 +26,6 @@ include "integration-test"
 include 'platform-services'
 
 include "platform-services:oauth-server"
+include "platform-services:zipkin-server"
 
 
